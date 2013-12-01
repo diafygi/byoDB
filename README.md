@@ -1,4 +1,1 @@
-byoDB
-=====
-
-moved to byoFS
+moved to https://github.com/diafygi/byoFS/
